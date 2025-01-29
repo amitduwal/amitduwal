@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amit Duwal</h1>
-<h3 align="center">A deep fascination for the potential of data. An aspiring data engineer and scientist. An insatiable thirst for knowledge and a strong desire to contribute, a commitment to continuous learning, growth, and the utilization of skills to drive meaningful insights and innovation in this rapidly evolving field of data.</h3>
+<h3 align="center">A deep fascination for the potential of data. An AI/ ML Engineer. An insatiable thirst for knowledge and a strong desire to contribute, a commitment to continuous learning, growth, and the utilization of skills to drive meaningful insights and innovation in this rapidly evolving field of data.</h3>
 
 - 🌱 I’m currently learning **AWS Cloud Services**
 
